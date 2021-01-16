@@ -12,8 +12,8 @@ echo '<body>
 
 	  
 	  <div id="navDemo" class="w3-bar-block w3-white w3-hide w3-hide-large w3-hide-medium w3-large">
-	    <a href="#" class="w3-bar-item w3-button w3-padding-large">D</a>
-	    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 2</a>
+	    <a href="#" class="w3-bar-item w3-button w3-padding-large">Dawurobo</a>
+	    <a href="#" class="w3-bar-item w3-button w3-padding-large">Sell Your Bed Space</a>
 	    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 3</a>
 	    <a href="#" class="w3-bar-item w3-button w3-padding-large">Link 4</a>
 	  </div>
