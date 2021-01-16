@@ -31,6 +31,79 @@ echo '<body>
 
 	  <!-- <button class="w3-button w3-black w3-padding-large w3-large w3-margin-top">Get Started</button> -->
 	</header>
+	
+	
+		<div class="container">
+	  <h2>On Hostels</h2>
+	 
+	  <div class="card left-card" style="width:400px">
+	    <img class="card-img-top" src="https://www.w3schools.com/w3images/img_avatar1.png" alt="Card image" style="width:100%">
+	    <div class="card-body">
+	      <h4 class="card-title">Tek Credit Hostel</h4>
+	      <p class="card-text">Tek Credit Hostel is on-campus.</p>
+	      <a href="#" class="btn btn-primary stretched-link">Available bed spaces</a>
+	    </div>
+	  </div>
+
+	  <div class="card left-card" style="width:400px">
+	    <img class="card-img-top" src="https://www.w3schools.com/w3images/img_avatar1.png" alt="Card image" style="width:100%">
+	    <div class="card-body">
+	      <h4 class="card-title">Hall 7</h4>
+	      <p class="card-text">Hall 7 is on-campus.</p>
+	      <a href="#" class="btn btn-primary stretched-link">Available bed spaces</a>
+	    </div>
+	  </div>
+
+	   <div class="card left-card" style="width:400px">
+	    <img class="card-img-top" src="https://www.w3schools.com/w3images/img_avatar1.png" alt="Card image" style="width:100%">
+	    <div class="card-body">
+	      <h4 class="card-title">SRC Hostel</h4>
+	      <p class="card-text">SRC Hostel is on-campus.</p>
+	      <a href="#" class="btn btn-primary stretched-link">Available bed spaces</a>
+	    </div>
+
+	  </div>
+	</div>
+	  		<br><br><br><br><br><br><br><br><br><br>
+	 <div class="container">
+
+
+	  <h2>Off-Hostels</h2>
+	 
+	  <div class="card left-card" style="width:400px">
+	    <img class="card-img-top" src="https://www.w3schools.com/w3images/img_avatar1.png" alt="Card image" style="width:100%">
+	    <div class="card-body">
+	      <h4 class="card-title">Canam Hall</h4>
+	      <p class="card-text">Canam Hall is off-campus.</p>
+	      <a href="#" class="btn btn-primary stretched-link">Available bed spaces</a>
+	    </div>
+	  </div>
+
+	  <div class="card left-card" style="width:400px">
+	    <img class="card-img-top" src="https://www.w3schools.com/w3images/img_avatar1.png" alt="Card image" style="width:100%">
+	    <div class="card-body">
+	      <h4 class="card-title">Victory Towers</h4>
+	      <p class="card-text">Victory Towers is off-campus.</p>
+	      <a href="#" class="btn btn-primary stretched-link">Available bed spaces</a>
+	    </div>
+	  </div>
+
+	   <div class="card left-card" style="width:400px">
+	    <img class="card-img-top" src="https://www.w3schools.com/w3images/img_avatar1.png" alt="Card image" style="width:100%">
+	    <div class="card-body">
+	      <h4 class="card-title">Frontline Inn</h4>
+	      <p class="card-text">Frontline Inn is off-campus.</p>
+	      <a href="#" class="btn btn-primary stretched-link">Available bed spaces</a>
+	    </div>
+
+
+
+	  </div>
+ <br><br><br><br>
+	 <br><br><br><br> <br><br><br><br>
+	 <br><br><br><br>
+
+		</div>
 
 </body>'
 ?>
