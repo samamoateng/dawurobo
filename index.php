@@ -1,5 +1,5 @@
 <?php
-echo "<DOCTYPE html>
+echo '<DOCTYPE html>
 <!DOCTYPE html>
 <html>
 <head>
@@ -240,5 +240,5 @@ echo "<DOCTYPE html>
 
 
 </body>
-</html>";
+</html>';
 ?>
