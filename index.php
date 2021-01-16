@@ -1,7 +1,5 @@
 <?php
-echo '<DOCTYPE html>
-<!DOCTYPE html>
-<html>
+echo '<html>
 <head>
 	<title>Dawurobo</title>
 	<meta charset="UTF-8">
@@ -22,23 +20,6 @@ echo '<DOCTYPE html>
 	<!-- TODO: Add SDKs for Firebase products that you want to use
 	     https://firebase.google.com/docs/web/setup#available-libraries -->
 	<script src="https://www.gstatic.com/firebasejs/8.2.1/firebase-analytics.js"></script>
-
-	<script>
-	  // Your web app's Firebase configuration
-	  // For Firebase JS SDK v7.20.0 and later, measurementId is optional
-	  var firebaseConfig = {
-	    apiKey: "AIzaSyBTWuk26fsGPlio3NhS0b4IinD-VJZSO6iFk",
-	    authDomain: "dawurobo-44933.firebaseapp.com",
-	    projectId: "dawurobo-44933",
-	    storageBucket: "dawurobo-44933.appspot.com",
-	    messagingSenderId: "1081937017786",
-	    appId: "1:1081937017786:web:42d30c91f0f5735ead7b83",
-	    measurementId: "G-MSNMXB15K7"
-	  };
-	  // Initialize Firebase
-	  firebase.initializeApp(firebaseConfig);
-	  firebase.analytics();
-	</script>
 
 
 	<style>
@@ -223,9 +204,8 @@ echo '<DOCTYPE html>
 
 
 	  </div>
- <br><br><br><br>
-	 <br><br><br><br> <br><br><br><br>
-	 <br><br><br><br>
+ <br><br><br>
+	 
 
 		</div>
 
